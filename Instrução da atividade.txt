@@ -1,0 +1,6 @@
+Em uma danceteria, as pessoas que se aproximam da pista de dança devem formar
+pares o mais rápido possível Homem com Mulher, Homem com Mulher, até o fim da
+linha. Se vários homens chegarem em sequência, eles devem formar pares na ordem
+que chegam, assim como sequência de mulheres. Mantenha uma fila de
+“sobressalentes” (homens para os quais ainda não tem mulheres, ou vice-versa) e
+faça pares conforme apropriado.
