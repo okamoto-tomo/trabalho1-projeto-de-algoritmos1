@@ -1,0 +1,11 @@
+Palíndromo: descreve qualquer sequência de caracteres (palavra, numeral, frase,
+etc) que, lida no sentido regular ou no sentido inverso, permanece idêntica.
+Alguns exemplos são: 'ovo', 'ana', '1001', 'a', ' '. Strings vazias ou de
+tamanho 1 (um) satisfazem a definição de palíndromo.
+
+Utilizando o conceito de pilhas, escreva um programa que receba como entrada
+uma cadeia de caracteres e verifique se satisfaz a definição de palíndromo,
+retornando Verdadeiro ou Falso. A sua função precisa incluir métodos para
+inserção e remoção dos caracteres da cadeia na pilha, método que retorne o
+elemento no topo da pilha e método para verificação da condição de palíndromo.
+Comente o código explicando de maneira concisa o seu funcionamento.
