@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Instituição** | UFPA |
+| **Instituição** | Universidade Federal do Pará (UFPA) |
 | **Professor** | Denis Lima do Rosário |
 | **Alunos** | Enzo Tomo Okamoto Guimarães — 202404940012 |
 | | Pedro Thiago Braga Alves — 202404940027 |
