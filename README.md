@@ -3,7 +3,10 @@
 | | |
 |---|---|
 | **Instituição** | Universidade Federal do Pará (UFPA) |
+| **Curso** | Ciência da Computação — Bacharelado (Vespertino) |
+| **Disciplina** | Projeto de Algoritmos |
 | **Professor** | Denis Lima do Rosário |
+| **Data** | 31/05/2026 |
 | **Alunos** | Enzo Tomo Okamoto Guimarães — 202404940012 |
 | | Pedro Thiago Braga Alves — 202404940027 |
 
