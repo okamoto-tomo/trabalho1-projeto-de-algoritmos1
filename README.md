@@ -1,21 +1,15 @@
 ﻿# Trabalho 1 - Projeto de Algoritmos I
-[UFPA]
-Professor: Denis Lima do Rosário
 
+| | |
+|---|---|
+| **Instituição** | UFPA |
+| **Professor** | Denis Lima do Rosário |
+| **Alunos** | Enzo Tomo Okamoto Guimarães — 202404940012 |
+| | Pedro Thiago Braga Alves — 202404940027 |
 
+Trabalho de Projeto de Algoritmos escrito em C++, desenvolvido pelos alunos Enzo Guimarães e Pedro Alves.
 
-Alunos:
-
-Enzo Tomo Okamoto Guimarães - 202404940012
-
-Pedro Thiago Braga Alves - 202404940027
-
-
-Trabalho de Projeto de Algoritmos escrito em C++ desenvolvido pelos alunos Enzo Guimarães e Pedro Alves.
-
-
-
-Opção 1: Trabalho sobre listas, pilhas e filas (Vale 4 pontos)
+**Opção 1:** Trabalho sobre listas, pilhas e filas *(Vale 4 pontos)*
 
 Descrição da atividade
 A atividade deve ser realizada em dupla e entregue via SIGAA até o dia
